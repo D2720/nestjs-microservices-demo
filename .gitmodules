@@ -1,0 +1,3 @@
+[submodule "message-broker/kafka"]
+	path = message-broker/kafka
+	url = https://github.com/obsidiandynamics/kafdrop
